@@ -6,3 +6,9 @@
 ###### Header 6
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+
+- [x] Start Project
+- [x] Added Headers
+- [x] Added an image
+- [x] Added a list
